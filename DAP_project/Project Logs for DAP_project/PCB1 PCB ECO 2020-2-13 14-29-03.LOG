@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=3V3 Pin=C3-2
+Removed Pin From Net: NetName=3V3 Pin=C4-2
+Removed Pin From Net: NetName=3V3 Pin=LDO1-2
+Removed Pin From Net: NetName=3V3 Pin=LDO1-4
+Removed Pin From Net: NetName=GND Pin=USB1-H3
+Removed Pin From Net: NetName=GND Pin=USB1-H4
+Removed Pin From Net: NetName=GND Pin=USB1-H5
+Removed Pin From Net: NetName=GND Pin=USB1-H6
+Change Component Footprint: Designator=D1 Old Footprint=DIODE_1206 New Footprint=LC-SMA(DO-214AC)_S5
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Added Component: Designator=D1(LC-SMA(DO-214AC)_S5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=D1-2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC2_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C4-2
+Added Pin To Net: NetName=NetC1_2 Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=LDO1-2
+Added Pin To Net: NetName=NetC1_2 Pin=LDO1-4
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=Sheet1 Member=Component D2 1N4007
+Added Member To Class: ClassName=Sheet1 Member=Component R4 10K
+Added Room: Name=Sheet1

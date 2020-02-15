@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C2 Old Footprint=C_SOP_0805 New Footprint=C_SOP_0603
+Change Component Footprint: Designator=C4 Old Footprint=C_SOP_0805 New Footprint=C_SOP_0603
+Change Component Footprint: Designator=C9 Old Footprint=C_SOP_0805 New Footprint=C_SOP_0603
+Change Component Footprint: Designator=C10 Old Footprint=C_SOP_0805 New Footprint=C_SOP_0603
+Change Component Footprint: Designator=C11 Old Footprint=C_SOP_0805 New Footprint=C_SOP_0603
+Change Component Footprint: Designator=C12 Old Footprint=C_SOP_0805 New Footprint=C_SOP_0603
+Change Component Footprint: Designator=C13 Old Footprint=C_SOP_0805 New Footprint=C_SOP_0603
+Change Component Footprint: Designator=C14 Old Footprint=C_SOP_0805 New Footprint=C_SOP_0603
+Added Member To Class: ClassName=Sheet1 Member=Component D1 1N4007
